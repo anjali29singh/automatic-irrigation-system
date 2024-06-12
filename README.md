@@ -18,6 +18,10 @@ This is an automatic irrigation system that uses a soil moisture sensor to detec
 
 I have used Keil uVision5 for writing the code and flashing it to the microcontroller.
 
+## Circuit Diagram
+
+![Circuit Diagram](https://github.com/anjali29singh/automatic-irrigation-system/blob/master/images/circuit.png)
+
 ## Contribution
 
 Feel free to contribute to this project. You can add more features to it or improve the existing code.
